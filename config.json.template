@@ -1,0 +1,37 @@
+{
+  "smtp": {
+    "server": "smtp.gmail.com",
+    "port": 587,
+    "username": "you@gmail.com",
+    "password": "YOUR_APP_PASSWORD"
+  },
+  "email": {
+    "from": "you@gmail.com",
+    "to": [
+      "you@gmail.com"
+    ]
+  },
+  "weather": {
+    "api_key": "YOUR_OPENWEATHER_API_KEY",
+    "lat": 38.3,
+    "lon": -76.54,
+    "units": "imperial"
+  },
+  "calendar": {
+    "ics_urls": [
+      "https://example.com/your_icloud_calendar.ics"
+    ]
+  },
+  "reminders": {
+    "json_path": "C:\\Users\\YOURNAME\\iCloudDrive\\Shortcuts\\daily_reminders.json"
+  },
+  "quote": {
+    "source": "zenquotes"
+  },
+  "digest": {
+    "days_ahead": 1,
+    "send_empty": true,
+    "time_zone": "America/New_York",
+    "subject_prefix": "[Daily Digest]"
+  }
+}
