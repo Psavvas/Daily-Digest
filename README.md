@@ -12,6 +12,7 @@
 * iOS Device with Apple Shortcuts (for reminders syncing)
 * Python
 * Cloud Storage Service with automated syncing for both devices (was using iCloud)
+* OpenWeather API Key
 ### 📄Step-by-Step Guide
 1. **Install and configure Apple Shortcut**
    * Duplicate Reminder to Digest Shortcut: [https://www.icloud.com/shortcuts/ccd398ae84c1422d8db230859b608c53](https://www.icloud.com/shortcuts/ccd398ae84c1422d8db230859b608c53)
